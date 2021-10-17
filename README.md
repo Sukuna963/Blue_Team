@@ -12,3 +12,7 @@
 * [opal](https://www.opal.ac/)
 * [Triage](https://tria.ge/)
 * [DeepBlueCli](https://github.com/sans-blue-team/DeepBlueCLI)
+
+# Forense
+
+* [Tsugiri Linux](https://tsurugi-linux.org/tsurugi_linux.php#:~:text=Tsurugi%20is%20an%20heavily%20customized%20Linux%20distribution%20designed,malware%20analysis%20and%20OSINT%20%28Open%20Source%20INTelligence%29%20activities.)
