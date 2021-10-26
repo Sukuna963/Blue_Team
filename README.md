@@ -9,6 +9,7 @@
 * [unit42](https://unit42.paloaltonetworks.com/wireshark-workshop-videos/)
 
 ## Tools
+* [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
 * [opal](https://www.opal.ac/)
 * [Triage](https://tria.ge/)
 * [DeepBlueCli](https://github.com/sans-blue-team/DeepBlueCLI)
