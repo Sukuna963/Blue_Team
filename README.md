@@ -7,7 +7,7 @@
 * [Threat Analysis Group (TAG)](https://blog.google/threat-analysis-group/)
 * [activecountermeasures](https://www.activecountermeasures.com/)
 * [unit42](https://unit42.paloaltonetworks.com/wireshark-workshop-videos/)
-* [Red CAnary](https://redcanary.com/resources/?type=webinars)
+* [Red Canary](https://redcanary.com/resources/?type=webinars)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
