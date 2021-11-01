@@ -8,6 +8,7 @@
 * [activecountermeasures](https://www.activecountermeasures.com/)
 * [unit42](https://unit42.paloaltonetworks.com/wireshark-workshop-videos/)
 * [Red Canary](https://redcanary.com/resources/?type=webinars)
+* [Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
