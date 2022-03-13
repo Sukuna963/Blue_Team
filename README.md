@@ -13,6 +13,7 @@
 * [The Hacker News](https://thehackernews.com/)
 * [Blue Team Blog](https://blueteamblog.com/free-resources)
 * [Blue Team Resources](https://blueteamresources.in/blue-team-resources/how-to-learn-cybersecurity/)
+* [Antisyphontraining](https://www.antisyphontraining.com/course-catalog/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
