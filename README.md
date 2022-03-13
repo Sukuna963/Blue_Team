@@ -9,6 +9,7 @@
 * [Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap)
 * [eforensicsmag](https://eforensicsmag.com/online-courses-2/)
 * [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/)
+* [Briskinfosec](https://www.briskinfosec.com/blogs)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
