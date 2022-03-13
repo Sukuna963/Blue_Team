@@ -14,6 +14,7 @@
 * [Blue Team Blog](https://blueteamblog.com/free-resources)
 * [Blue Team Resources](https://blueteamresources.in/blue-team-resources/how-to-learn-cybersecurity/)
 * [Antisyphontraining](https://www.antisyphontraining.com/course-catalog/)
+* [SOC Investigation](https://www.socinvestigation.com/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
