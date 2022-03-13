@@ -1,6 +1,4 @@
 # Blue Team
-
-## Learning
 * [malware-traffic-analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
 * [wehackpurple](https://academy.wehackpurple.com/)
 * [praetorian](https://www.praetorian.com/)
@@ -9,6 +7,8 @@
 * [unit42](https://unit42.paloaltonetworks.com/wireshark-workshop-videos/)
 * [Red Canary](https://redcanary.com/resources/?type=webinars)
 * [Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap)
+* [eforensicsmag](https://eforensicsmag.com/online-courses-2/)
+* [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
@@ -18,7 +18,6 @@
 * [Anyrun](https://any.run/)
 
 # Forense
-## Learning
 * [Marcos Monteiro](https://marcosmonteiro.com.br/)
 * [istrosec](https://www.istrosec.com/blog/)
 * [Volatility Labs](https://volatility-labs.blogspot.com/)
