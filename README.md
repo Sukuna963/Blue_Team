@@ -12,6 +12,7 @@
 * [Briskinfosec](https://www.briskinfosec.com/blogs)
 * [The Hacker News](https://thehackernews.com/)
 * [Blue Team Blog](https://blueteamblog.com/free-resources)
+* [Blue Team Resources](https://blueteamresources.in/blue-team-resources/how-to-learn-cybersecurity/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
