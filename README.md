@@ -10,6 +10,7 @@
 * [eforensicsmag](https://eforensicsmag.com/online-courses-2/)
 * [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/)
 * [Briskinfosec](https://www.briskinfosec.com/blogs)
+* [The Hacker News](https://thehackernews.com/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
