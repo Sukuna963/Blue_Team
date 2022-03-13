@@ -23,6 +23,7 @@
 * [Triage](https://tria.ge/)
 * [DeepBlueCli](https://github.com/sans-blue-team/DeepBlueCLI)
 * [Anyrun](https://any.run/)
+* [Intezer](https://www.intezer.com/)
 
 # Forense
 * [Marcos Monteiro](https://marcosmonteiro.com.br/)
