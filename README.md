@@ -16,6 +16,7 @@
 * [Antisyphontraining](https://www.antisyphontraining.com/course-catalog/)
 * [SOC Investigation](https://www.socinvestigation.com/)
 * [Voidsec](https://voidsec.com/category/blog/)
+* [Blue Team Academy](https://www.blueteamsacademy.com/)
 
 ## Tools
 * [Eric Zimmerman](https://ericzimmerman.github.io/#!index.md)
